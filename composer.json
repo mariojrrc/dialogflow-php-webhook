@@ -1,0 +1,11 @@
+{
+    "name":"PHP webhook for Dialogflow",
+    "authors": [{
+        "name": "Mario Costa",
+        "email": "mariojr.rcosta@gmail.com"
+    }],
+    "description":"SoloDB4 requirements",
+    "require": {
+        "vlucas/phpdotenv": "^3.3"
+    }
+}
