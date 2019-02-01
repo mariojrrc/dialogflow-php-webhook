@@ -1,16 +1,17 @@
 {
-    "name": "PHP webhook for Dialogflow",
+    "name": "mariojrrc/dialogflow-php-webhook",
     "authors": [
         {
             "name": "Mario Costa",
             "email": "mariojr.rcosta@gmail.com"
         }
     ],
-    "description": "SoloDB4 requirements",
+    "description": "PHP webhook for Dialogflow",
+    "license": ["MIT"],
     "require": {
         "php": "^7.1",
         "ext-json": "*",
-        "vlucas/phpdotenv": "^3.3",
+        "vlucas/phpdotenv": "^3.3"
     },
     "scripts": {
         "post-install-cmd": [
